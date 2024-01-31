@@ -2,23 +2,9 @@
 
 A simple Tic Tac Toe game implemented in Python with an AI opponent.
 
-
-Certainly! Here's an updated version of the README.md file with added sections for Usage and Gameplay:
-
-markdown
-Copy code
 # AI Tic Tac Toe Game in Python
 
 A simple Tic Tac Toe game implemented in Python with an AI opponent.
-
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Gameplay](#gameplay)
-- [License](#license)
 
 ## Features
 
@@ -30,14 +16,6 @@ A simple Tic Tac Toe game implemented in Python with an AI opponent.
 ## Requirements
 
 - Python 3.x
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
-Navigate to the project directory:
 
 ## Usage
 Run the game using the following command:
