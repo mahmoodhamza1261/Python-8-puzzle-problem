@@ -1,6 +1,4 @@
-# AI Tic Tac Toe Game in Python
 
-A simple Tic Tac Toe game implemented in Python with an AI opponent.
 
 # AI Tic Tac Toe Game in Python
 
